@@ -4,6 +4,4 @@
 2. o log do keylogger fica na pasta temp (%TEMP%\keylog.txt)
 3. basta apenas abrir o cmd e esperar
 
-[cmd automatico em desenvolvimento, pode vir na proxima versao.]
-
-obrigado, ztk
+[cmd automatico em desenvolvimento.]
