@@ -1,4 +1,4 @@
-### ztk-alpha 1.0 ###
+### ztk-keylogger 1.0 ###
 
 1. o .bat precisa estar na mesma pasta do script
 2. o log do keylogger fica na pasta temp (%TEMP%\keylog.txt)
